@@ -1,7 +1,7 @@
 from pytube import YouTube
 
 try:
- print("PyYoutube Downloader by Miguel")
+ print("PyYoutube-Downloader by Miguel")
  url = input("Insira o endereço da url  ")
  yt = YouTube(url)
 
